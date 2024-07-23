@@ -94,7 +94,7 @@ export const helloInit = () => {
   }
   ElMessage({
     dangerouslyUseHTMLString: true,
-    message: `<strong>${hello}</strong> 欢迎来到我的主页`,
+    message: `<strong>${hello}</strong> 欢迎来到小才能的主页`,
   });
 };
 
