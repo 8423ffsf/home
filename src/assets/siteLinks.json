@@ -1,8 +1,8 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "才能的博客",
+    "link": "https://blog.yuki-desu.us.kg/"
   },
   {
     "icon": "Cloud",
@@ -23,11 +23,6 @@
     "icon": "Book",
     "name": "网址集",
     "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
