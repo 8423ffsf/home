@@ -6,13 +6,13 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "帮才能测一下速嘛？",
+    "link": "https://speedtest.yuki-desu.us.kg/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "这是才能的网易云呀",
+    "link": "http://music.163.com/m/user/home?id=1823257356"
   },
   {
     "icon": "Compass",
@@ -21,12 +21,12 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "要看一下才能的笔记嘛",
+    "link": "https://md.yuki-desu.us.kg/"
   },
   {
     "icon": "LaptopCode",
-    "name": "测一下速嘛？",
-    "link": "https://speedtest.yuki-desu.us.kg/"
+    "name": "看看才能的代码库？",
+    "link": "https://codeserver.yuki-desu.us.kg/"
   }
 ]
